@@ -2,9 +2,6 @@
 
 My name is Connor Dooley. I am a recent graduate with my B.S. in computer science. I like web development, data analysis, and coding for social good.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dospunk&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
 <!--
 **dospunk/dospunk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
