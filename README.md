@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Connor Dooley. I am a recent graduate with my B.S. in computer science. I like web development, data analysis, and coding for social good.
+I am a full stack developer interested in coding for social good.
 
 <!--
 **dospunk/dospunk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
